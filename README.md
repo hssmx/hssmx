@@ -1,93 +1,65 @@
-# [cite_start]Houssam NINIA [cite: 1]
-================
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hssmx.hssmx" />
 
-## Introduction
----------------
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Houssam+NINIA!;" />
+</h1>
 
-### Welcome to My Profile
+<h3 align="center">A passionate AI & Data Science Engineering student from Morocco 🇲🇦</h3>
 
-Hi there! [cite_start]I'm Houssam NINIA [cite: 1][cite_start], a passionate AI & Data Science Engineering student [cite: 2] [cite_start]from Rabat, Morocco[cite: 10]. I'm excited to share my projects, skills, and experiences with you.
+<br/>
 
-## About Me
-------------
+<div align="center">
+ 
+ 🔭 I’m currently working on **Vortex Game Engine & an AI-powered IoT prototype**
+ 
+ 🌱 I’m heavily focused on **LLMs, agentic systems, and AI evaluation**
 
-### Brief Overview of My Background
+💬 Ask me about **PyTorch, Embedded C++, and Competitive Robotics** 
 
-[cite_start]As an engineering student at Ecole Nationale Supérieure d'Arts et Métiers [cite: 8][cite_start], I'm driven by a passion for building scalable intelligent systems[cite: 12]. [cite_start]I'm focused on LLMs, agentic systems, and AI evaluation[cite: 2], always eager to bridge the gap between low-level hardware control and high-level AI logic.
+⚡ Fun fact **I am the Graphic Designer for both my university's IT and Robotics clubs!**
 
-### Current Activities and Projects
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:houssam_ninia@um5.ac.ma">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="https://linkedin.com/in/houssam-ninia" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> 
+  </a>
+  <a href="https://github.com/hssmx" target="_blank">
+     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank" /> 
+  </a>
+</div>
 
-#### Projects I'm Currently Working On
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=py,cpp,cs,ts,java,bash,html,css" />
+    <img src="https://skillicons.dev/icons?i=pytorch,postgres,redis,docker,kubernetes,fastapi,nodejs,github" /><br>
+</div>
 
-* [cite_start]**Vortex Game Engine**: I'm developing a custom web-based 2D game engine from scratch using TypeScript and React, featuring an efficient ECS architecture[cite: 35, 36].
-* [cite_start]**Edge AI Solutions**: I'm building AI-powered IoT prototypes integrating computer vision on Raspberry Pi to solve local challenges[cite: 38, 39].
+<br/>
+<hr/>
 
-#### Community Involvement
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hssmx/hssmx/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-[cite_start]Feel free to reach out to me through GitHub issues if you have any questions about PyTorch [cite: 42][cite_start], embedded systems[cite: 18], or competitive robotics. [cite_start]I serve as the Hardware Logistics Lead for the RobotiCore Club [cite: 28, 29] and I'm always happy to help and collaborate.
+<hr/>
 
-#### Fun Fact
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=hssmx&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=hssmx&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hssmx&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+</div>
 
-Did you know I design visual ecosystems as well as algorithms? [cite_start]Alongside engineering, I am the Graphic Designer for both the Fatal Error IT Club [cite: 24, 25] [cite_start]and the RobotiCore Club [cite: 28, 29][cite_start], harmonizing technical themes with accessible design[cite: 27]!
-
-## Get in Touch
-----------------
-
-If you'd like to connect or discuss a project, feel free to reach out to me through the following channels:
-
-* [cite_start]**Email**: <houssam_ninia@um5.ac.ma> [cite: 3]
-* [cite_start]**LinkedIn**: <https://linkedin.com/in/houssam-ninia> [cite: 6]
-* [cite_start]**GitHub**: <https://github.com/hssmx> [cite: 7]
-
-## Technical Skills
--------------------
-
-### AI & Machine Learning
-
-* [cite_start]**Frameworks**: PyTorch, Hugging Face [cite: 42]
-* [cite_start]**Specialties**: LLMs (Fine-tuning, RAG), Computer Vision, Edge AI [cite: 38, 42]
-
-### Core Programming Languages
-
-* [cite_start]**General Purpose**: Python, C/C++, C#, Java [cite: 44]
-* [cite_start]**Web**: JavaScript, TypeScript, HTML/CSS [cite: 35, 44]
-* [cite_start]**Scripting & Data**: Bash, SQL [cite: 44]
-
-### Backend & Infrastructure
-
-* [cite_start]**Frameworks**: FastAPI, Node.js, Flask [cite: 45]
-* [cite_start]**Databases**: PostgreSQL, Redis [cite: 45]
-* [cite_start]**DevOps & Deploy**: Docker, Kubernetes (Basic), GitHub Actions (CI/CD) [cite: 45]
-
-### Software Engineering & Systems
-
-* [cite_start]**Methodologies**: System Design, RESTful APIs, OOP, Design Patterns, TDD [cite: 43]
-* [cite_start]**Hardware**: ESP32, Raspberry Pi, Arduino [cite: 33]
-
-## Contributions
-----------------
-
-### My Open-source Contributions
-
-Here's a visual representation of my contributions to open-source projects:
-
-[cite_start][![snake eating my contributions](https://raw.githubusercontent.com/hssmx/hssmx/output/github-contribution-grid-snake.svg)](https://github.com/hssmx/hssmx) [cite: 7]
-
-## Statistics
--------------
-
-### GitHub Profile Statistics
-
-Here are some statistics about my GitHub profile:
-
-#### Streak Stats
-
-[cite_start][![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hssmx&count_private=true&theme=tokyonight&border_radius=10)](https://github.com/hssmx/hssmx) [cite: 7]
-
-#### GitHub Stats
-
-[cite_start][![readme stats](https://github-readme-stats.vercel.app/api?username=hssmx&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10)](https://github.com/hssmx/hssmx) [cite: 7]
-
-#### Top Languages
-
-[cite_start][![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hssmx&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5)](https://github.com/hssmx/hssmx) [cite: 7]
+<br/><br/>
