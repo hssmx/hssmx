@@ -1,54 +1,96 @@
 <div align="center">
-  <h1>Hi there! 👋 I'm Houssam NINIA</h1>
-  <h3>AI & Data Science Engineering Student | LLMs | Agentic Systems</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Houssam%20NINIA&fontSize=60&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Agentic%20Systems%20%7C%20Robotics&descAlignY=51&descAlign=62" alt="Header Banner" />
+  
+  <br/>
+  
+  <a href="https://linkedin.com/in/houssam-ninia" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:houssam_ninia@um5.ac.ma">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>⚡ Building Scalable Intelligence & Autonomous Systems ⚡</h3>
+  <p>
+    I'm an AI & Data Science Engineering student at ENSAM Rabat, heavily focused on <b>LLMs, Agentic Systems, and AI Evaluation</b>. Whether I'm building custom 2D game engines from scratch, writing firmware for competitive robotics, or fine-tuning models, I bridge the gap between low-level hardware and high-level AI logic.
+  </p>
+</div>
+
+<br/>
+
+<h2 align="center">🛠️ Technical Arsenal</h2>
+
+<div align="center">
+  <b>AI & Machine Learning</b><br>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-000000?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/LLMs%20%26%20RAG-0052CC?style=for-the-badge&logo=ai&logoColor=white" alt="LLMs" />
+  <br><br>
+  
+  <b>Core Languages</b><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <br><br>
+  
+  <b>Backend & Infrastructure</b><br>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+</div>
+
+<br/>
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hssmx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Houssam's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hssmx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<br/>
+
+<h2 align="center">🏆 Highlights & Milestones</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Engineering & AI Projects</h3>
+      <ul>
+        <li><b>Vortex Game Engine:</b> Custom web-based 2D engine built from scratch with TypeScript and React utilizing an ECS architecture.</li>
+        <li><b>Orange-Aytoo Hackathon '25:</b> Developed an AI-powered IoT prototype (Edge AI + Raspberry Pi) selected for GITEX Africa 2025.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Competitive Robotics</h3>
+      <ul>
+        <li><b>2nd Prize, ENSAM Maker's:</b> Lead Programmer (ESP32 real-time motor control) for the Football Robot team.</li>
+        <li><b>2nd Prize, African Robotics Brains:</b> Maze-Solver logic & motor drivers.</li>
+        <li><b>3rd Prize, SUMO-BOT:</b> Autonomous combat strategy algorithms.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h2 align="center">🐍 Contribution Graph</h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hssmx/hssmx/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hssmx/hssmx/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hssmx/hssmx/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <p align="center">
-  Welcome to my digital forge! [cite_start]I am an AI & Data Science Engineering student focused on LLMs, agentic systems, and AI evaluation[cite: 2]. I am passionate about blending hardware and software to build scalable, intelligent systems.
-</p>
-
----
-
-## 🎓 Academic Journey
-
-* [cite_start]**Degree:** I am currently pursuing an Engineering Degree in AI & Data Science[cite: 9].
-* [cite_start]**Institution:** I study at the Ecole Nationale Supérieure d'Arts et Métiers[cite: 8].
-* [cite_start]**Location:** I am based in Rabat, Morocco[cite: 10].
-* [cite_start]**Timeline:** My program runs from Sep. 2025 to Jun. 2028[cite: 11].
-
----
-
-## 💻 Technical Arsenal
-
-* [cite_start]**AI Engineering:** My stack includes LLMs (Fine-tuning, RAG), Computer Vision, PyTorch, and Hugging Face[cite: 42].
-* [cite_start]**Languages:** I write code in Python, C#, C/C++, SQL, JavaScript, Bash, HTML/CSS, and Java[cite: 44].
-* [cite_start]**Backend & Infrastructure:** I build and deploy with FastAPI, Flask, Node.js, PostgreSQL, Redis, Docker, Kubernetes (Basic), and GitHub Actions (CI/CD)[cite: 45].
-* [cite_start]**Software Engineering:** I focus on System Design, RESTful APIs, OOP, Design Patterns, and TDD[cite: 43].
-
----
-
-## 🚀 Featured Projects
-
-* [cite_start]**Vortex Game Engine:** I developed a custom web-based 2D game engine from scratch using TypeScript and React[cite: 35, 36]. [cite_start]I implemented an efficient Entity-Component-System (ECS) architecture[cite: 36].
-* [cite_start]**Orange-Aytoo Hackathon 2025:** I built an AI-powered IoT prototype integrating computer vision on a Raspberry Pi[cite: 38, 39]. [cite_start]This project was selected to be showcased at GITEX Africa 2025[cite: 40].
-
----
-
-## 🏆 Trophy Case & Experience
-
-* [cite_start]**Robotics Excellence:** I won 2nd Prize at the ENSAM Maker's Competition in Rabat as Lead Programmer for the Football Robot team[cite: 20]. [cite_start]I secured 2nd Prize at African Robotics Brains by developing logic and motor drivers for a Maze-Solver robot[cite: 22]. [cite_start]I also took 3rd Prize at the SUMO-BOT Competition at EMSI[cite: 23].
-* [cite_start]**Competitive Programming:** I achieved 12th Place at JNJD 2024 and 19th Place at MNPC 2024[cite: 17].
-* [cite_start]**Community Leadership:** I serve as the Hardware Logistics Lead and Graphic Designer for the RobotiCore Club[cite: 28, 29]. [cite_start]I am also the Graphic Designer for the Fatal Error Club[cite: 24, 25].
-
----
-
-## 📫 Let's Connect
-
-* [cite_start]**Email:** houssam_ninia@um5.ac.ma [cite: 3]
-* [cite_start]**LinkedIn:** linkedin.com/in/houssam-ninia [cite: 6]
-* [cite_start]**GitHub:** github.com/hssmx [cite: 7]
-
-<br>
-<p align="center">
-  <i>"Designing the future, one line of code at a time."</i>
+  <i>Designing the future, one line of code at a time.</i>
 </p>
